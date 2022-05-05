@@ -1,0 +1,22 @@
+.options {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px solid forestgreen;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    box-shadow: 0.05rem 0.05rem 0.25rem goldenrod;
+}
+
+.choices {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    color: green;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    padding: 1rem;
+}
+
